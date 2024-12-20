@@ -36,7 +36,7 @@ To run the game, ensure you have Python 3 and Pygame installed on your system.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ai-pacman-game.git
+    git clone https://github.com/AbdelatefElshafei/A_Star-search-Pacman.git
     ```
 
 2. Install the required packages:
