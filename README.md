@@ -1,5 +1,6 @@
 
 # AI Pac-Man Game
+![image](https://github.com/user-attachments/assets/b0965ddd-9366-4697-a8f2-a2ea05acd683)
 
 This repository contains an implementation of an AI-controlled Pac-Man game using Python and Pygame. The game features:
 
